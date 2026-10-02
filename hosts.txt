@@ -208,6 +208,7 @@
 ||61momoinvoice06.zycr911.com^
 ||sfexpresi-tw.sfxpuerse.top^
 ||ovovjn.jingshunchangcheng.com^
+||cht-com.tw^
 
 ! Apple 帳號釣魚
 ||wrightonyourmoney.com^
@@ -269,6 +270,9 @@
 ||wtta.6kkm76.online^
 ||bletc1.yyqqbkefag.online^
 ||electricitybl1.8fhuomvks6.online^
+||weeeca.j69wxsus.online^
+||fetcd-gov.com^
+||nqfetc5.i06owbem.online^
 
 ! 金融機構釣魚
 ||esansk.top^
@@ -495,6 +499,7 @@
 ||e-invoicemanagement-twv.com^
 ||p.e-invoiceplatfm-twb.com^
 ||einvoice-tw.blog^
+||r-hyinvioicek.com^
 
 ||taiwan-free-store.com^
 ||tw-track.com^
