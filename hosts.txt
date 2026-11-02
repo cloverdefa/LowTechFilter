@@ -208,6 +208,9 @@
 ||61momoinvoice06.zycr911.com^
 ||sfexpresi-tw.sfxpuerse.top^
 ||ovovjn.jingshunchangcheng.com^
+||cht-com.tw^
+||cenf.eu.cc^
+||cioo.eu.cc^
 
 ! Apple 帳號釣魚
 ||wrightonyourmoney.com^
@@ -217,6 +220,8 @@
 ||api.diao.one^
 ||api.heikeji.me^
 ||zp6auz64.pages.dev^
+||cui-tg-uoen.xyz^
+||tel-safety-verify.xyz^
 
 ! 全家 Famiport 釣魚
 ||famiport-com-tw.fit^
@@ -269,6 +274,13 @@
 ||wtta.6kkm76.online^
 ||bletc1.yyqqbkefag.online^
 ||electricitybl1.8fhuomvks6.online^
+||weeeca.j69wxsus.online^
+||fetcd-gov.com^
+||nqfetc5.i06owbem.online^
+||twscw.86plob5f.online^
+||yyk05.qa3u8erl.online^
+||fetc-twygov.com^
+||f-jaocaeefetc-tw.com^
 
 ! 金融機構釣魚
 ||esansk.top^
@@ -495,6 +507,9 @@
 ||e-invoicemanagement-twv.com^
 ||p.e-invoiceplatfm-twb.com^
 ||einvoice-tw.blog^
+||r-hyinvioicek.com^
+||einvonlce-tw-gov.com^
+||eiinivonlce-tw-gov.com^
 
 ||taiwan-free-store.com^
 ||tw-track.com^
